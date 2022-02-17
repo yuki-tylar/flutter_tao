@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_tao/flutter_tao_route.dart';
+import 'package:tao/flutter_tao_route.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:flutter_tao/flutter_tao_router.dart';
+import 'package:tao/flutter_tao_router.dart';
 
 void main() {
   var router = TaoRouter({
